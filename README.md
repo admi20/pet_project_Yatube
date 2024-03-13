@@ -12,7 +12,7 @@ Django REST framework
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone https://github.com/admi20/api_final_yatube.git
+git clone https://github.com/admi20/pet_poject_Yatube.git
 ```
 
 ```
